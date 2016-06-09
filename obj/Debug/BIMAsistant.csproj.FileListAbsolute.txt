@@ -1,0 +1,9 @@
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\bin\Debug\BIMAsistant.dll
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\bin\Debug\BIMAsistant.pdb
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\obj\Debug\BIMAsistant.csproj.ResolveComReference.cache
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\obj\Debug\BIMAsistant.g.resources
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\obj\Debug\BIMAsistant.Create2DForm.resources
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\obj\Debug\BIMAsistant.CreateSheetForm.resources
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\obj\Debug\BIMAsistant.csproj.GenerateResource.Cache
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\obj\Debug\BIMAsistant.dll
+E:\Projects\Revit Architecture\API\Test\BIMAsistant\BIMAsistant\obj\Debug\BIMAsistant.pdb
