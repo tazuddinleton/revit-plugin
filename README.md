@@ -5,7 +5,7 @@ was tiresome and boring. I created this little plugin for me to automate the pro
 
 You can see here https://www.youtube.com/watch?v=Uvm17WujbBE
 and here https://www.youtube.com/watch?v=sZowo9Gyy4k
-I made these demo videos as I worked on the plugins.
+I made these demo videos as I worked on the plugin.
 
 I worked a month on this, I was familiar with basic coding so I started experimenting with Dynamo (a visual programming tool that came with Revit).
 Then I learned the a bit C# because Revit API was in C#. I learned a lot along the way, it was hard for me as a non programmer to familirize myself with 
